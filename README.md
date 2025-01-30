@@ -14,7 +14,7 @@ This script is **free and open-source**. If you have any feature requests, bug r
 ## 📬 Contact & Contributing
 If you have suggestions, want to report a bug, or contribute improvements, please visit the **GitHub repository**:
 
-🔗 [GitHub: Dannysgonemad](https://github.com/yourusername)
+🔗 [GitHub: Dannysgonemad](https://github.com/Macka0010)
 
 ## 📥 Installation
 
